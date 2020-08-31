@@ -1,2 +1,2 @@
 # myfirstfizzbuzz
-My first fizzbuzz
+My first fizzbuzz. Fizzbuzzes up to 1 million.
